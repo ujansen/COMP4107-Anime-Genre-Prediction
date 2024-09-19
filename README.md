@@ -1,3 +1,5 @@
+**Anime Genre Classification using Posters, Name, Synopsis, and Metadata**
+
 Objective: Developed a multi-label classification system to accurately classify anime into its corresponding genre(s) using diverse data sources from MyAnimeList.
 
 Approach and Techniques:
